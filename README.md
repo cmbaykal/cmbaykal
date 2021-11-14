@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmbaykal&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
-</a> 
- <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmbaykal&layout=compact&theme=dark&hide_border=true&hide=css" />
-</a> 
+
+<p float="left" align="left">
+<a href="https://github.com/cmbaykal">
+  <img width="432px" src="https://github-readme-stats.vercel.app/api?username=cmbaykal&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=e07619&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+ <img width="360px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmbaykal&theme=dark&layout=compact&hide_border=true&hide=css&title_color=e07619&bg_color=151515">
+</a>
+</p>
 
 
 <!--
