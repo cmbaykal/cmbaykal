@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmbaykal&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+</a> 
+ <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmbaykal&layout=compact&theme=dark&hide_border=true&hide=css" />
+</a> 
+
+
 <!--
 **cmbaykal/cmbaykal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
