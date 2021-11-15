@@ -7,8 +7,12 @@
   </a>
 </p>
 
-
-<a href=""><img width="440px" src="https://spotify-recently-played-readme.vercel.app/api?user=cmertbaykal&count=1"></a>
+<p float="left" align="left">
+  <a href="https://github.com/cmbaykal">
+    <img width="420px" src="https://spotify-recently-played-readme.vercel.app/api?user=cmertbaykal&count=3">
+    <img width="390px" height="228px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+  </a>
+</p>
 
 <!--
 ![](https://komarev.com/ghpvc/?username=cmbaykal&color=e07619)
