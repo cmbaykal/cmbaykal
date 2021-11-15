@@ -7,7 +7,11 @@
   </a>
 </p>
 
+
+<a href=""><img width="440px" src="https://spotify-recently-played-readme.vercel.app/api?user=cmertbaykal&count=1"></a>
+
 <!--
+![](https://komarev.com/ghpvc/?username=cmbaykal&color=e07619)
 **cmbaykal/cmbaykal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
