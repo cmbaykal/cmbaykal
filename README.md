@@ -11,7 +11,9 @@
   <a href="https://open.spotify.com/user/cmertbaykal">
     <img width="420px" src="https://spotify-recently-played-readme.vercel.app/api?user=cmertbaykal&count=3">
   </a>
+    <a href="https://github.com/cmbaykal">
     <img width="390px" height="228px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+  </a>
 </p>
 
 <!--
