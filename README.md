@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##
+![](https://komarev.com/ghpvc/?username=cmbaykal&color=e07619)
+
 <p float="left" align="left">
   <a href="https://github.com/cmbaykal">
     <img width="440px" src="https://github-readme-stats.vercel.app/api?username=cmbaykal&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=e07619&icon_color=ffdc40">
