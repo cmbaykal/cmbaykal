@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ##
+
+![Linkedin Badge](https://img.shields.io/badge/-cmertbaykal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmertbaykal/)
 ![](https://komarev.com/ghpvc/?username=cmbaykal&color=e07619)
 
 <p float="left" align="left">
