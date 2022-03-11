@@ -4,7 +4,6 @@
 [![Twitter Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=LinkedIn&color=151515&logoColor=e07619)](https://www.linkedin.com/in/cmertbaykal/)
 [![Twitter Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=Twitter&color=151515&logoColor=e07619)](https://www.twitter.com/cmertbaykal/)
 [![Youtube Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=Youtube&color=151515&logoColor=e07619)](https://www.youtube.com/channel/UCkIOqf33HDQWIBPpRsh17_w)
-[![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmbaykal%2Fhit-counter&count_bg=%23E07619&title_bg=%23151515&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p float="left" align="left">
   <a href="https://github.com/cmbaykal">
