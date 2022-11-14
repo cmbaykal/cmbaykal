@@ -12,12 +12,3 @@
     <img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmbaykal&theme=dark&layout=compact&hide_border=true&hide=css&title_color=e07619&bg_color=151515">
   </a>
 </p>
-
-<p float="left" align="left">
-  <a href="https://open.spotify.com/user/cmertbaykal">
-    <img width="420px" src="https://spotify-recently-played-readme.vercel.app/api?user=cmertbaykal&count=3">
-  </a>
-    <a href="https://github.com/cmbaykal">
-    <img width="390px" height="228px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-  </a>
-</p>
