@@ -3,7 +3,7 @@
 ##
 [![Twitter Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=LinkedIn&color=151515&logoColor=e07619)](https://www.linkedin.com/in/cmertbaykal/)
 [![Twitter Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=Twitter&color=151515&logoColor=e07619)](https://www.twitter.com/cmbaykal/)
-[![Instagram Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=Instagram&color=151515&logoColor=e07619)](https://www.instagram.com/cmbaykal)
+[![Instagram Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=Instagram&color=151515&logoColor=e07619)](https://www.instagram.com/mrbaikal)
 [![Youtube Badge](https://img.shields.io/badge/cmertbaykal-blue?logo=Youtube&color=151515&logoColor=e07619)](https://www.youtube.com/channel/UCkIOqf33HDQWIBPpRsh17_w)
 
 <p float="left" align="left">
