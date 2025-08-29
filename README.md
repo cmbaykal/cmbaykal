@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ##
-[![Twitter Badge](https://img.shields.io/badge/cmbaykal-blue?logo=LinkedIn&color=151515&logoColor=e07619)](https://www.linkedin.com/in/cmbaykal/)
-[![Twitter Badge](https://img.shields.io/badge/cmbaykal-blue?logo=Twitter&color=151515&logoColor=e07619)](https://www.twitter.com/cmbaykal/)
+[![Twitter Badge](https://img.shields.io/badge/cmbaykal-blue?logo=inspire&color=151515&logoColor=e07619)](https://www.linkedin.com/in/cmbaykal/)
+[![Twitter Badge](https://img.shields.io/badge/cmbaykal-blue?logo=x&color=151515&logoColor=e07619)](https://www.twitter.com/cmbaykal/)
 [![Instagram Badge](https://img.shields.io/badge/cmbaykal-blue?logo=Instagram&color=151515&logoColor=e07619)](https://www.instagram.com/cmbaykal)
 [![Youtube Badge](https://img.shields.io/badge/cmbaykal-blue?logo=Youtube&color=151515&logoColor=e07619)](https://www.youtube.com/channel/UCkIOqf33HDQWIBPpRsh17_w)
 
